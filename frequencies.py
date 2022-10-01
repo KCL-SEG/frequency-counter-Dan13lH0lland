@@ -1,7 +1,7 @@
 """Frequencies function."""
 """ENTER YOUR SOLUTION HERE!"""
 
-def frequencies(*items):
+def frequencies(items):
     frequencies = {}
     print(items)
     for item in items:
